@@ -1,0 +1,6 @@
+server/.env
+server/venv/
+server/__pycache__/
+*.faiss
+*.pkl
+*.joblib
